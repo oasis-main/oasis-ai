@@ -1,7 +1,7 @@
 # Datasets-Models
 Our Goal at Oasis is to help improve the mycology community. We believe that communittes are best served when ideas, information, and help is shared. Therefore we have committed to make tools available to everyone. 
 
-We provide online tools for idenifying contamination in substraite (http://18.221.61.101:8501/). 
+We provide online tools for idenifying contamination in substraite (http://13.58.80.80:8501/). 
 
 Or you can contribute and improve the model by submitting images of clean or contaminated substrate here (http://52.14.37.182:8501/). Please do! You will be able to find your submission in a few days (as we will be going through them manually to avoid bad data). 
 
