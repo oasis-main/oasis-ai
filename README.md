@@ -10,4 +10,4 @@ If you would like to contribute in other ways (development, promotion, organizin
 The image dataset is available here: https://www.kaggle.com/oasisregenerative/mycelium-contamination-image-dataset
 
 Models in this repository:
-  1. (BestLossModel.mdl_wts.hdf5) Binary classification of contaminated vs clean mycelium
+  1. (BestLossModel.mdl_wts.hdf5) Binary classification: contaminated vs clean mycelium
