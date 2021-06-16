@@ -5,7 +5,7 @@ This repository contains a trained computer-vision model and community-contribut
 
 You can contribute labeled images of clean and contamitated mycelium to improve the model here (https://contributecontam.oasisgardens.ai/). Please do! These models are open for use by the community, and you will be able to find your submission in the folder after a few days, since we go through them manually to avoid bad data.
 
-If you would like to contribute in other ways (development, promotion, organizing) please contact us through our website: https://oasis-iot.square.site/
+If you would like to contribute in other ways (development, promotion, organizing) please contact us through our website: https://oasis-gardens.square.site/
 
 The image dataset is available here: https://www.kaggle.com/oasisdata/mycelium-contamination-images
 Models in this repository:
